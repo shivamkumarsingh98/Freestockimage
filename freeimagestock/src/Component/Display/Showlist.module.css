@@ -1,0 +1,12 @@
+
+
+.card{
+    width: 90%;
+    height:100%;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3px;
+    padding: 5px;
+    background-color: aliceblue;
+}
